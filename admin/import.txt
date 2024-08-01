@@ -1,0 +1,5 @@
+npm create vite@latest
+npm install
+npm run dev for runnign the file
+npm install axios react-toastify
+npm install react-router-dom

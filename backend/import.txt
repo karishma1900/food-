@@ -1,0 +1,3 @@
+first npm init
+ npm install 
+express mongoose bcrypt cors dotenv body-parser multer stripe validator nodemon  jsonwebtoken
